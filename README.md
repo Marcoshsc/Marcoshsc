@@ -16,7 +16,7 @@ etc.). I also worked with geolocation technologies, such as PostGIS, leaflet and
 
 - 🔭 I’m currently working on: **geolocation projects, Scientific Research for UFOP**
 
-- 🌱 I’m currently learning: **react-leaflet, redux**
+- 🌱 I’m currently learning: **react-native, docker, recoil-js**
 
 - 📫 How to reach me: **Email to marcos.hsc@aluno.ufop.edu.br**
 
