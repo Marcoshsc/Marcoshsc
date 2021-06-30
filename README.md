@@ -16,11 +16,9 @@ etc.). I also worked with geolocation technologies, such as PostGIS, leaflet and
 
 - 🔭 I’m currently working on: **geolocation projects, Scientific Research for UFOP**
 
-- 🌱 I’m currently learning: **react-native, docker, recoil-js**
+- 🌱 I’m currently learning: **react-native, docker**
 
 - 📫 How to reach me: **Email to marcos.hsc@aluno.ufop.edu.br**
-
-- ⚡ Fun fact: **At a given time, I thought that HTML was a programming language and Javascript was a Java-based language! :laughing:**
 
 <h3 align="center">Techs</h3>
 
