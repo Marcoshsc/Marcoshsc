@@ -2,7 +2,7 @@
 <h3 align="center">I'm fascinated by life, I love to learn, program and play games!</h3>
 
 <p align="justify">
-My name is Marcos, I'm graduating at Information Systems on the Federal University of Ouro Preto (UFOP). I also work in a scientific research project which tries to
+My name is Marcos, I'm graduating at Information Systems on the Federal University of Ouro Preto (UFOP). I also worked in a scientific research project which tries to
 solve the schoolar bus routing problem, using geolocation technologies and modern stacks (spring boot, react) in order to develop algorithms and apps that will 
 change the way schoolar transportation is seen today.
 </p>
@@ -14,9 +14,9 @@ experience using java (Spring framework, Hibernate and other popular Java librar
 etc.). I also worked with geolocation technologies, such as PostGIS, leaflet and OpenStreetMaps-based projects.
 </p>
 
-- 🔭 I’m currently working on: **geolocation projects, Scientific Research for UFOP**
+- 🔭 I’m currently working on: **geolocation projects, Lead Developer at DTI Digital**
 
-- 🌱 I’m currently learning: **react-native, docker**
+- 🌱 I’m currently learning: **.NET, azure**
 
 <h3 align="center">Techs</h3>
 
